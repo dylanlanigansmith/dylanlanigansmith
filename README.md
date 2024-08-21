@@ -1,5 +1,6 @@
 
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanlanigansmith&size_weight=0.25&count_weight=0.2&hide=cmake,smpl,,objective-c,batchfile,perl,objective-c%2B%2B&langs_count=8&&layout=donut))](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs]((https://github-readme-stats.vercel.app/api/top-langs/?username=dylanlanigansmith&size_weight=0.25&count_weight=0.2&hide=cmake,smpl,,objective-c,batchfile,perl,objective-c%2B%2B&langs_count=8&&layout=donut))
+
 <!--
 **dylanlanigansmith/dylanlanigansmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
